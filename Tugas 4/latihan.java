@@ -23,7 +23,7 @@ public class latihan
             System.out.println("5. Banyak Antrian ");
             System.out.println("6. Tampilan Queue ");
             System.out.println("7. Selesai");
-            System.out.print("Masukkan Pilihan [1-6]: ");
+            System.out.print("Masukkan Pilihan [1-7]: ");
             int input=pilih.nextInt();
 
             switch(input)
