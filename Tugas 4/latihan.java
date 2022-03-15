@@ -57,15 +57,14 @@ public class latihan
             break;
 
             case 4:
-            System.out.println("Cek Antrian Kosong : "+antrian.isEmpty());
-            System.out.println("");
-            break;
-
-            case 5:
             System.out.println("Cek Antrian Teratas : "+antrian.peek());
             System.out.println("");
             break;
 
+            case 5:
+            System.out.println("Banyak Antrian : "+antrian.size());
+            System.out.printlin("");
+                    
             case 6:
             System.out.println("Tampilan Queue : "+antrian);
             System.out.println("");
